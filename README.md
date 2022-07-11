@@ -11,6 +11,8 @@ from rubpy.socket import Client
 import asyncio
 
 socket = Client('YOUR-AUTH')
+seened : list = []
+
 
 async def main():
 	while 1:
@@ -37,6 +39,8 @@ from rubpy.socket import Client
 import asyncio
 
 socket = Client('YOUR-AUTH')
+seened : list = []
+
 
 async def main():
 	while 1:
