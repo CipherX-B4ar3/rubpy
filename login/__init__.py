@@ -1,3 +1,0 @@
-class Login(object):
-	def __init__(self) -> int:
-		...
