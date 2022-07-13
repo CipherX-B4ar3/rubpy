@@ -73,7 +73,7 @@ requirements : list = ["pycryptodome" , "pillow" , "aiohttp" , "websocket-client
 
 setup(
     name = "rubpy",
-    version = "2.0.11",
+    version = "3.0.0",
     author = "Shayan Heidari",
     author_email = "snipe4kill.tg@gmail.com",
     description = "This is an unofficial library for deploying robots on Rubika accounts.",
