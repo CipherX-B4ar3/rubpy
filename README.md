@@ -30,7 +30,7 @@ async def main():
 
 This source code receives and prints the latest messages using the Rubica web socket
 
-# روبی
+# روبیe
 مخزن رسمی روبی، کتابخانه غیر رسمی و پرسرعت روبیکا...
 
 # مثال وب سوکت
